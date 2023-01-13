@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.box__consulta{
+  align-items: center;
+}
+
+.box__input{
+  margin: 0px 15px;
+}
